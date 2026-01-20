@@ -1,0 +1,168 @@
+MASTER AGENT PROMPT – INTIMA∞ COMPLETE ECOSYSTEM  (mobile app with react native and node and mysql)
+ROLE & AUTHORITY
+You are a senior full-stack product architect, AI systems engineer, and startup CTO. Your task is to design, plan, and build a complete production-ready 18+ relationship ecosystem application. Do NOT omit, simplify, or reinterpret any feature. Explicitly state assumptions where required.
+OVERVIEW
+Build an 18+ adult ecosystem covering:
+• Public dating & matchmaking
+• Private intimacy & sex games
+• Explicit-ready consensual content
+• AI flirtation & relationship intelligence
+• Menstrual, ovulation & fertility tracking
+• Partner-shared calendars
+• Sexual health & safe sex education
+• Marital & relationship issue resolution
+• In-app gifting economy with withdrawals
+• Live video calls, chats & feeds
+• Extreme privacy (anti-screenshot & recording)
+• Full admin & moderation backend
+
+GLOBAL REQUIREMENTS
+• 18+ age verification (hard gate)
+• End-to-end encryption for private content
+• Consent-first design
+• AI moderation for public spaces
+• No public explicit sexual acts
+• Region-aware payments & payouts
+• App-store-safe framing
+• Explicit content only in private consensual areas
+
+SECTION A – PUBLIC DATING & LOVE DISCOVERY
+• Public profiles
+• Match & chat
+• Relationship goals (dating, serious, marriage, companionship)
+• Interest & value-based matching
+• AI-generated icebreakers & flirts
+• Public text-based community rooms
+• Strong reporting & moderation
+• Transition to Private Couple Mode upon mutual consent
+
+SECTION B – PRIVATE COUPLE MODE
+• Invite-only pairing
+• Encrypted environment
+• Consent & boundaries setup
+• Romantic, playful, erotic & healing modes
+
+SECTION C – INTIMACY, ROMANTIC & SEX GAMES (18+)
+• Truth, Dare & Desire
+• Flirt & tease games
+• Foreplay games
+• Fantasy builder
+• Roleplay scenarios
+• Power & trust games (consensual)
+• Escalation journeys
+• Custom free-play
+• Adjustable intensity & no language restriction between consenting adults
+
+SECTION D – SEX STYLES & PREFERENCES
+Track:
+• Slow & sensual
+• Romantic
+• Passionate
+• Playful
+• Dominant/submissive (consensual)
+• Quick vs extended
+Used for AI suggestions & compatibility insights
+
+SECTION E – MENSTRUAL, OVULATION & FERTILITY SYSTEM
+• Period tracking (start/end, flow, symptoms)
+• Libido prediction
+• Smart calendar with color coding
+• Partner-shared view (optional)
+
+SECTION F – CONCEPTION & PREDICTION
+• Best conception timing
+• Safe days
+• Pregnancy prevention
+• Male/female child timing (educational)
+• Twin probability factors
+• Clear medical disclaimers
+
+SECTION G – AI FLIRT & RELATIONSHIP INTELLIGENCE
+• Mood-based flirt generation
+• Erotic teasing texts
+• Conflict repair messages
+• Long-distance intimacy texts
+• Usage-based AI suggestions
+• Emotional distance detection
+
+SECTION H – EXPLICIT PRIVATE CONTENT SYSTEM
+• Custom fantasies & prompts
+• Explicit language allowed privately
+• Consent gates
+• Zero public exposure
+
+SECTION I – SAFE SEX & HEALTH EDUCATION
+• Contraception
+• Condom usage
+• STI prevention
+• Consent & aftercare
+• Infection symptom awareness (non-diagnostic)
+
+SECTION J – RELATIONSHIP & MARITAL ISSUE SOLVER
+• Sexless marriage support
+• Mismatched libido tools
+• Post-childbirth intimacy recovery
+• Emotional check-ins
+• Love languages
+• Conflict-aware AI
+
+SECTION K – MEMORY & TRUST SYSTEM
+• Encrypted memory vault
+• Voice notes
+• Saved flirts
+• Preferences & milestones
+
+SECTION L – GIFTING & REWARD ECONOMY
+• Custom-named gifts (Rose Touch, Love Spark, Flame, Desire Gem, Midnight Kiss, Intima Crown, Infinity Bond)
+• Gifts convert to credits
+• Credits withdrawable as money
+• Anti-fraud & withdrawal thresholds
+• Region-based payouts
+
+SECTION M – LIVE INTERACTION
+• Private 1-on-1 video calls
+• Live video chats
+• Live feeds
+• Gifting during live sessions
+• Consent confirmation before video
+
+SECTION N – EXTREME PRIVACY & ANTI-SCREENSHOT
+• Screenshot & screen recording blocking
+• Detection of third-party recorders
+• Automatic blur/failure
+• Immediate notification to the other user
+• Incident logging & repeat-offender penalties
+
+SECTION O – SAFETY, LEGAL & COMPLIANCE
+• AI moderation
+• Reporting & blocking
+• Consent logs
+• Data privacy compliance
+• No sex-for-money framing
+
+SECTION P – ADMIN & BACKEND SYSTEM
+• Web-based admin dashboard
+• Role-based access (Super Admin, Moderator, Finance, Support, Analytics, Health)
+• User management
+• Content moderation (metadata-only for private content)
+• Incident & abuse management
+• Gift economy & withdrawals control
+• Financial dashboards
+• Live session oversight (non-voyeur)
+• AI control panel
+• Analytics & insights
+• Legal & compliance tools
+• Audit logs & transparency
+• 2FA & least-privilege security
+
+FINAL INSTRUCTION
+Deliver:
+
+System architecture
+Database schemas
+AI logic & prompt systems
+MVP vs full roadmap
+Legal & app-store constraints
+Build-ready execution plan
+DO NOT SKIP ANY FEATURE.
+ASSUME THIS IS A SERIOUS COMMERCIAL PRODUCT.
